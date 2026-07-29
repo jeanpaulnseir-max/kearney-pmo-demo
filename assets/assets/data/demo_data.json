@@ -38,32 +38,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -127,32 +139,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "In Progress",
-     "progress": 90
+     "progress": 90,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -225,32 +249,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 70
+     "progress": 70,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -305,27 +341,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "In Progress",
-     "progress": 60
+     "progress": 60,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -379,27 +425,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "In Progress",
-     "progress": 90
+     "progress": 90,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -453,32 +509,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "In Progress",
-     "progress": 32
+     "progress": 32,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -522,32 +590,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "In Progress",
-     "progress": 48
+     "progress": 48,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -610,32 +690,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 46
+     "progress": 46,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -689,22 +781,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 20
+     "progress": 20,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -777,22 +877,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "In Progress",
-     "progress": 20
+     "progress": 20,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -836,32 +944,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -915,32 +1035,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 88
+     "progress": 88,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -995,22 +1127,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -1071,22 +1211,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -1150,32 +1298,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "In Progress",
-     "progress": 78
+     "progress": 78,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -1248,27 +1408,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -1322,27 +1492,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 70
+     "progress": 70,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -1385,27 +1565,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -1449,22 +1639,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "In Progress",
-     "progress": 36
+     "progress": 36,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -1537,27 +1735,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -1621,22 +1829,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -1709,27 +1925,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "In Progress",
-     "progress": 50
+     "progress": 50,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -1784,32 +2010,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "In Progress",
-     "progress": 67
+     "progress": 67,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -1879,32 +2117,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "In Progress",
-     "progress": 67
+     "progress": 67,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -1949,32 +2199,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 88
+     "progress": 88,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -2016,22 +2278,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 92
+     "progress": 92,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -2095,27 +2365,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 50
+     "progress": 50,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -2188,27 +2468,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "In Progress",
-     "progress": 25
+     "progress": 25,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -2251,27 +2541,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -2325,22 +2625,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "In Progress",
-     "progress": 48
+     "progress": 48,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -2383,22 +2691,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -2451,27 +2767,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 70
+     "progress": 70,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -2525,32 +2851,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -2623,32 +2961,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 22
+     "progress": 22,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -2703,22 +3053,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "In Progress",
-     "progress": 16
+     "progress": 16,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -2773,22 +3131,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -2861,22 +3227,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "In Progress",
-     "progress": 36
+     "progress": 36,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -2957,32 +3331,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 16
+     "progress": 16,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -3037,32 +3423,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "In Progress",
-     "progress": 38
+     "progress": 38,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -3107,27 +3505,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "In Progress",
-     "progress": 85
+     "progress": 85,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -3200,32 +3608,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -3287,27 +3707,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "In Progress",
-     "progress": 50
+     "progress": 50,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -3361,27 +3791,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -3444,32 +3884,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "In Progress",
-     "progress": 64
+     "progress": 64,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -3513,32 +3965,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -3581,27 +4045,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -3664,22 +4138,30 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "In Progress",
-     "progress": 24
+     "progress": 24,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -3734,27 +4216,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "In Progress",
-     "progress": 65
+     "progress": 65,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -3798,27 +4290,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -3873,32 +4375,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "In Progress",
-     "progress": 43
+     "progress": 43,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -3953,27 +4467,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "In Progress",
-     "progress": 90
+     "progress": 90,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -4028,27 +4552,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -4119,27 +4653,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -4194,32 +4738,44 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "In Progress",
-     "progress": 54
+     "progress": 54,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Close-out & benefits tracking",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [],
@@ -4270,27 +4826,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "In Progress",
-     "progress": 50
+     "progress": 50,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Not Started",
-     "progress": 0
+     "progress": 0,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
@@ -4362,27 +4928,37 @@
     {
      "name": "Mobilize team & finalize scope",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Complete current-state assessment",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Design future-state blueprint",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Execute implementation wave",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     },
     {
      "name": "Test, train & handover",
      "status": "Completed",
-     "progress": 100
+     "progress": 100,
+     "start_date": "2026-01-01",
+     "end_date": "2026-10-28"
     }
    ],
    "attachments": [
