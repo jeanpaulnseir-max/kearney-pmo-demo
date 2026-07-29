@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/kearney-pmo-demo/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Kearney PMO platform demo — fictional data, no database.">
+
+  <!-- Private internal tool — never index. Belt-and-braces alongside
+       robots.txt so a misbehaving crawler can't list the URL either. -->
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Kearney PMO Demo">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Kearney — PMO Platform Demo</title>
+  <link rel="manifest" href="manifest.json">
+
+  <!--
+    Pin overscroll so a fast trackpad / mouse-wheel flick at the top or
+    bottom of a Flutter ListView doesn't leak to the browser and trigger
+    a back-navigation gesture (the bug shows up most often on macOS
+    Chrome + Safari with horizontal swipe-back enabled).
+  -->
+  <style>
+    html, body {
+      overscroll-behavior: contain;
+      overscroll-behavior-x: none;
+      overscroll-behavior-y: contain;
+      overflow: hidden;
+    }
+  </style>
+
+  <!--
+    Hard cache-bust: any previously-installed service worker is unregistered
+    on every page load and all caches are cleared, then we reload exactly
+    once if we found stale state. Fixes "still seeing the old build" after
+    every deploy. The Flutter-generated SW will re-register fresh after
+    the bootstrap script runs (we leave that flow alone).
+  -->
+  <script>
+    (async function () {
+      try {
+        if ('serviceWorker' in navigator) {
+          const regs = await navigator.serviceWorker.getRegistrations();
+          let cleared = false;
+          for (const r of regs) {
+            await r.unregister();
+            cleared = true;
+          }
+          if ('caches' in window) {
+            const keys = await caches.keys();
+            for (const k of keys) {
+              await caches.delete(k);
+              cleared = true;
+            }
+          }
+          // Reload exactly once after the first time we cleared things,
+          // so the user lands on a fully fresh asset graph.
+          if (cleared && !sessionStorage.getItem('cacheReset')) {
+            sessionStorage.setItem('cacheReset', '1');
+            window.location.reload();
+          }
+        }
+      } catch (e) {
+        // Non-fatal: keep loading even if the cleanup itself fails.
+        console.warn('SW cleanup skipped:', e);
+      }
+    })();
+  </script>
+</head>
+<body>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
